@@ -1,12 +1,3 @@
----
----
-
-@import "{{ site.theme }}";
-
-header {
-  display: none;
-}
-
 
 ## Privacy Policy of Dolmus Taksi
 
