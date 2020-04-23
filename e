@@ -1,0 +1,3 @@
+### This page will be updated... 
+
+# You can contact with the developer via contact us link in the app. 
