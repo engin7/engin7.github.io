@@ -14,7 +14,7 @@ We may disclose your information in response to subpoenas, court orders, or othe
 
 ### Security
 
-There is a feature to report a user in our chat rooms. We investigate user messages in 24 hours and permenantly delete accounts which violate our policies. Any user is responsible for their own safety. We recommend you to meet  other passengers in public places. 
+In our platform there is no tolerance for objectionable content or abusive users. Selling illegeal drugs or doing any other illegal activities in the chat rooms is not allowed and any information will be given to legal authorities. There is a feature to report a user in our chat rooms. We investigate reported user messages in 24 hours and permenantly delete accounts which violate our policies. Any user is responsible for their own safety. We recommend you to meet  other passengers in public places. 
 
 ### Service Providers
 We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
@@ -47,7 +47,6 @@ By using our site or apps, you consent to our privacy policy.
 
 ### Contacting Us
 If you have questions regarding this privacy policy, you may email kuk.engin@icloud.com 
-There is also link in the app to contact us.
 
 ### Changes to this policy
 If we decide to change our privacy policy, we will post those changes on this page. Summary of changes so far:
