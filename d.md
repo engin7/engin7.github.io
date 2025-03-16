@@ -1,54 +1,111 @@
 
-## Privacy Policy of Dolmus Taksi
+## Privacy Policy of LiftTrackr
 
-### Privacy Policy
+**Privacy Policy for LiftTrackr**
 
-This policy applies to all information collected or submitted on our apps and any other devices and platforms. 
+**Last Updated:** March 7, 2025
 
-### Information we collect
+Your privacy is our concern. We’re committed to preserving it. This Privacy Policy explains how we collect, use, and protect your personal data when you use the *LiftTrackr* app (the "App"). Please read this policy carefully to understand how your information is handled.
 
-Dolmus Taksi accounts are created anonymously, without email addresses or passwords.
+---
 
-We store information about your messages in chat rooms.  
-We may disclose your information in response to subpoenas, court orders, or other legal requirements; to exercise our legal rights or defend against legal claims; to investigate, prevent, or take action regarding illegal activities, suspected fraud or abuse, violations of our policies; or to protect our rights and property.
+**User Information**
 
-### Security
+In order to provide the best app experience, tailored to your preferences, and address any requests or complaints, it is important for us to have some information about you. By using the App, you agree to the collection of the following information to enhance your experience.
 
-In our platform there is no tolerance for objectionable content or abusive users. Selling illegeal drugs or doing any other illegal activities in the chat rooms is not allowed and any information will be given to legal authorities. There is a feature to report a user in our chat rooms. We investigate reported user messages in 24 hours and permenantly delete accounts which violate our policies. Any user is responsible for their own safety. We recommend you to meet  other passengers in public places. 
+Your privacy is our concern. We’re committed to preserving it. Our policy ensures that your information will never be shared, sold, or marketed under any circumstances. All your data will be safe and kept confidential.
 
-### Service Providers
-We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+---
 
-These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
-### Analytics
-We may use third-party Service Providers to monitor and analyze the use of our Service.
+**Sharing Information**
 
-Firebase
+Users can choose to store their data on their personal devices or use our cloud service for data backup and synchronization across devices. If you choose to use our cloud service, we assure you that your data will never be shared, sold, or marketed to any third parties. You have full control and can delete your data at any time. *LiftTrackr* will never purchase any databases containing user data.
 
-Firebase is analytics service provided by Google Inc.
+---
 
-You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy?hl=en
+**Information Safety**
 
-We also encourage you to review the Google's policy for safeguarding your data: https://support.google.com/analytics/answer/6004245. For more information on what type of information Firebase collects, please visit please visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en
-### California Online Privacy Protection Act Compliance
-We comply with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+All personal data entered into *LiftTrackr* is stored in a secure database with restricted access.
 
-### Children’s Online Privacy Protection Act Compliance
-We never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+---
 
-### Information for European Union Customers
-By using Overcast and providing your information, you authorize us to collect, use, and store your information outside of the European Union.
+**Information Usage**
 
-### International Transfers of Information
-Information may be processed, stored, and used outside of the country in which you are located. Data privacy laws vary across jurisdictions, and different laws may be applicable to your data depending on where it is processed, stored, or used.
+We use the information we collect to operate, improve, and personalize the App’s functionality and customer support.
 
-### Your Consent
-By using our site or apps, you consent to our privacy policy.
+We may disclose your information in response to legal requirements such as subpoenas or court orders, or to defend against legal claims. We may also use your information to investigate, prevent, or take action regarding illegal activities, suspected fraud, abuse, or policy violations.
 
-### Contacting Us
-If you have questions regarding this privacy policy, you may email kuk.engin@icloud.com 
+In the future, *LiftTrackr* may engage in mergers, acquisitions, or partnerships with other businesses. In such cases, user information may be transferred as part of the transaction.
 
-### Changes to this policy
-If we decide to change our privacy policy, we will post those changes on this page. Summary of changes so far:
+---
+
+**Analytics**
+
+*LiftTrackr* uses analytics tools to gather statistical and usage data to improve the App if user gives permissions. All data collected is anonymous, ensuring no personal information about users is exposed. *LiftTrackr* does not share user data with other third-party analytics services.
+
+---
+
+**HealthKit Data**
+
+*LiftTrackr* may collect HealthKit data. This data includes Active Energy, Heart Rate, Activity Rings etc. We use this data to track your workout progress and show you how much you've filled your Activity Rings. This data is only collected if you approve it, and it will only be tracked once you manually start a workout session. We do not track your data automatically.
+
+*LiftTrackr* will never share or sell your HealthKit data. No third parties have access to it.
+
+---
+
+**User’s Data**
+
+When you create an account with *LiftTrackr*, we only require basic information such as your First Name, Last Name, Email, and Password. This information is stored to ensure smooth operation of the App, and to keep track of your gym activities. This data will never be shared with or sold to third parties.
+
+*LiftTrackr* reserves the right to delete your account and all related information at any time and for any reason, including technical needs, legal concerns, abuse prevention, or inactivity.
+
+---
+
+**Third-party Links and Content**
+
+*LiftTrackr* may display links to third-party websites or content. These third-party services have their own privacy policies, and we are not responsible for their content or activities.
+
+---
+
+**Subscriptions Details**
+
+*LiftTrackr* offers a free version with limited features. You can upgrade to a premium subscription for unlimited workouts, limitless history and cloud synchronization.
+
+Subscriptions renew automatically unless you turn off auto-renewal at least 24 hours before the end of the current period. You will be charged for renewal within 24 hours prior to the end of the current period.
+  
+---
+
+**Information for Users Outside of the European Union**
+
+By using *LiftTrackr* and providing your information, you consent to the collection, processing, and storage of your data outside of your country.
+
+---
+
+**International Transfers of Information**
+
+Information may be transferred, processed, and stored outside your home country, and data privacy laws may differ based on the jurisdiction in which the data is processed.
+
+---
+
+**Children’s Online Privacy Protection**
+
+We do not knowingly collect or maintain personal information from anyone under the age of 13. If you are under 13, please do not submit any data through the App or website.
+
+---
+
+**Your Consent**
+
+By using *LiftTrackr*, you consent to our privacy policy.
+
+---
+
+**Disclaimer**
+
+While we strive to protect your data, no method of data transmission over the internet can be guaranteed to be completely secure. You transmit your data at your own risk.
+
+---
+ 
+
+This privacy policy replaces all previous versions. We reserve the right to update this policy at any time.
 
 April 23, 2020: First published.
