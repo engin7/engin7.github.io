@@ -1,3 +1,3 @@
 ### This page will be updated later... 
 
-# You can contact with the developer via Contact Support button in the HELP section in the app. 
+# You can contact the developer via the ‘Contact Support’ button in the Help section of the app.
