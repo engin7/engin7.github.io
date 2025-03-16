@@ -1,10 +1,6 @@
 
 ## Privacy Policy of LiftTrackr
 
-**Privacy Policy for LiftTrackr**
-
-**Last Updated:** March 7, 2025
-
 Your privacy is our concern. We’re committed to preserving it. This Privacy Policy explains how we collect, use, and protect your personal data when you use the *LiftTrackr* app (the "App"). Please read this policy carefully to understand how your information is handled.
 
 ---
@@ -108,4 +104,4 @@ While we strive to protect your data, no method of data transmission over the in
 
 This privacy policy replaces all previous versions. We reserve the right to update this policy at any time.
 
-April 23, 2020: First published.
+**Last Updated:** March 7, 2025
